@@ -7,7 +7,7 @@
  "price": "$6",
  "model": "one-time",
  "kind": "pack",
- "status": "coming soon",
+ "status": "ready to sell",
  "faq": [
   [
    "What exactly do I get?",
@@ -15,7 +15,7 @@
   ],
   [
    "Is it finished?",
-   "Not yet. Still to do: the Chairman opens product_studio/packs/cats_pack, confirms the art is his and the licence note is right."
+   "Yes."
   ],
   [
    "Who made it?",
