@@ -1,0 +1,28 @@
+{
+ "id": "town_app",
+ "title": "Gotjira Town: a living pixel town",
+ "tagline": "The town itself as a desktop companion",
+ "description": "The town itself as a desktop companion: residents with moods and jobs, cats, a day and night, battles.",
+ "for": "people who like cozy pixel sims and desktop companions",
+ "price": "$15",
+ "model": "one-time",
+ "kind": "app",
+ "status": "coming soon",
+ "faq": [
+  [
+   "What exactly do I get?",
+   "The town itself as a desktop companion: residents with moods and jobs, cats, a day and night, battles."
+  ],
+  [
+   "Is it finished?",
+   "Not yet. Still to do: cut the town loose from the trading bot's feeds; an installer; a first-run guide; a store page with a trailer; decide what the residents do when there is no bot behind them."
+  ],
+  [
+   "Who made it?",
+   "It comes out of Gotjira Town's own tested work. The design and the code are original."
+  ]
+ ],
+ "card": "MARKET CARD NEEDS WORK: Gotjira Town: a living pixel town | 5 job(s) left before it can be sold",
+ "demand": "unmeasured (no sale yet)",
+ "rev": "V6.3.40"
+}
