@@ -10,17 +10,17 @@ Tagline: Five pixel cats (walking, sitting and sleeping poses, plus kittens) as 
 Description: Five pixel cats (walking, sitting and sleeping poses, plus kittens) as PNG sprites and a sheet, with a small behaviour engine: wander, sit, nap, purr.
 For: indie game developers who want living background animals
 Price: $6 (one-time)
-Status: coming soon
+Status: ready to sell
 
 FAQ:
 - Q: What exactly do I get?
   A: Five pixel cats (walking, sitting and sleeping poses, plus kittens) as PNG sprites and a sheet, with a small behaviour engine: wander, sit, nap, purr.
 - Q: Is it finished?
-  A: Not yet. Still to do: the Chairman opens product_studio/packs/cats_pack, confirms the art is his and the licence note is right.
+  A: Yes.
 - Q: Who made it?
   A: It comes out of Gotjira Town's own tested work. The design and the code are original.
 
-It is NOT for sale yet: add a "Join the waitlist" email signup for it, and no checkout and no price button.
+Add a buy button: a Stripe checkout through Polsia for $6 (one-time). Do not take a payment until the download file is attached; I attach it myself.
 
 Do not run ads or post on social media about it: that waits for my say-so.
 (The same section as HTML is in listing.html beside this file.)
