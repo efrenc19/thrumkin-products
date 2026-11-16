@@ -1,0 +1,33 @@
+{
+ "from": "Gotjira Town's Product Studio",
+ "how": "follow each product's polsia_task.md",
+ "products": [
+  {
+   "id": "aerodrift",
+   "title": "AeroDrift (Minecraft add-on)",
+   "status": "coming soon",
+   "price": "set on the Marketplace",
+   "model": "one-time",
+   "task": "aerodrift/polsia_task.md",
+   "updated": 1794813198.5
+  },
+  {
+   "id": "cats_pack",
+   "title": "Town Cats pixel pack",
+   "status": "coming soon",
+   "price": "$6",
+   "model": "one-time",
+   "task": "cats_pack/polsia_task.md",
+   "updated": 1794813198.5
+  },
+  {
+   "id": "digital_studio",
+   "title": "AI digital studio (apps, ads and videos by credits)",
+   "status": "coming soon",
+   "price": "",
+   "model": "monthly",
+   "task": "digital_studio/polsia_task.md",
+   "updated": 1794813198.5
+  }
+ ]
+}
