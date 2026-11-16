@@ -1,0 +1,28 @@
+{
+ "id": "digital_studio",
+ "title": "AI digital studio (apps, ads and videos by credits)",
+ "tagline": "A customer types an idea and gets a working web app, ad images and a short promo video",
+ "description": "A customer types an idea and gets a working web app, ad images and a short promo video: a monthly plan that spends credits per job.",
+ "for": "solo founders and small shops who want an app, ads and a video without hiring",
+ "price": "",
+ "model": "monthly",
+ "kind": "subscription",
+ "status": "coming soon",
+ "faq": [
+  [
+   "What exactly do I get?",
+   "A customer types an idea and gets a working web app, ad images and a short promo video: a monthly plan that spends credits per job."
+  ],
+  [
+   "Is it finished?",
+   "Not yet. Still to do: the owner installs the engines himself (an app builder, an image and video engine, a workflow brain, a billing storefront); read each engine's licence before charging for it; a server: a shop open to the public cannot run from the home PC without a tunnel or an open port; one 12 GB card does one heavy job at a time: a queue and honest wait times; a review step before anything reaches a customer."
+  ],
+  [
+   "Who made it?",
+   "It comes out of Gotjira Town's own tested work. The design and the code are original."
+  ]
+ ],
+ "card": "MARKET CARD NEEDS WORK: AI digital studio (apps, ads and videos by credits) | nothing of it is in this folder yet; no test covers it yet; 5 job(s) left before it can be sold",
+ "demand": "unmeasured (no sale yet)",
+ "rev": "V6.3.40"
+}
