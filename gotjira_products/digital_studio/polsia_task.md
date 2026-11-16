@@ -9,7 +9,7 @@ Title: AI digital studio (apps, ads and videos by credits)
 Tagline: A customer types an idea and gets a working web app, ad images and a short promo video
 Description: A customer types an idea and gets a working web app, ad images and a short promo video: a monthly plan that spends credits per job.
 For: solo founders and small shops who want an app, ads and a video without hiring
-Price: to come (monthly)
+Price: $19 a month (monthly)
 Status: coming soon
 
 FAQ:
