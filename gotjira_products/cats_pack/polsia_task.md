@@ -6,17 +6,17 @@ Add one product section to the site's products page (create the page if there is
 home page). Use exactly the text below: do not add claims, reviews, numbers of users or results.
 
 Title: Town Cats pixel pack
-Tagline: Five pixel cats (walk, sit, sleep, kittens) with a small behaviour engine
-Description: Five pixel cats (walk, sit, sleep, kittens) with a small behaviour engine: wander, nap, purr, kittens.
+Tagline: Five pixel cats (walking, sitting and sleeping poses, plus kittens) as PNG sprites and a s
+Description: Five pixel cats (walking, sitting and sleeping poses, plus kittens) as PNG sprites and a sheet, with a small behaviour engine: wander, sit, nap, purr.
 For: indie game developers who want living background animals
 Price: $6 (one-time)
 Status: coming soon
 
 FAQ:
 - Q: What exactly do I get?
-  A: Five pixel cats (walk, sit, sleep, kittens) with a small behaviour engine: wander, nap, purr, kittens.
+  A: Five pixel cats (walking, sitting and sleeping poses, plus kittens) as PNG sprites and a sheet, with a small behaviour engine: wander, sit, nap, purr.
 - Q: Is it finished?
-  A: Not yet. Still to do: export the sprites as PNG sheets; a one-page how-to and a licence note.
+  A: Not yet. Still to do: the Chairman opens product_studio/packs/cats_pack, confirms the art is his and the licence note is right.
 - Q: Who made it?
   A: It comes out of Gotjira Town's own tested work. The design and the code are original.
 
