@@ -39,6 +39,15 @@
    "updated": 1794850795.0
   },
   {
+   "id": "pixel_cat_stream_compani",
+   "title": "Pixel Cat Stream Companions",
+   "status": "coming soon",
+   "price": "$8",
+   "model": "one-time",
+   "task": "pixel_cat_stream_compani/polsia_task.md",
+   "updated": 1794866772.9
+  },
+  {
    "id": "sprite_tool",
    "title": "Video-to-sprite tool",
    "status": "coming soon",
