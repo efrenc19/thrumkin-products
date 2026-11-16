@@ -1,0 +1,28 @@
+{
+ "id": "sprite_tool",
+ "title": "Video-to-sprite tool",
+ "tagline": "Drop in a short video of a character on a plain background, get a clean pixel sprite pack ",
+ "description": "Drop in a short video of a character on a plain background, get a clean pixel sprite pack with loops and anchors.",
+ "for": "indie developers and artists who animate with video tools",
+ "price": "$9 a month",
+ "model": "monthly",
+ "kind": "tool",
+ "status": "coming soon",
+ "faq": [
+  [
+   "What exactly do I get?",
+   "Drop in a short video of a character on a plain background, get a clean pixel sprite pack with loops and anchors."
+  ],
+  [
+   "Is it finished?",
+   "Not yet. Still to do: package the pipeline as one program (today it is a set of working scripts, not in this folder); a web upload page; payments; a queue so a long video does not block the next one."
+  ],
+  [
+   "Who made it?",
+   "It comes out of Gotjira Town's own tested work. The design and the code are original."
+  ]
+ ],
+ "card": "MARKET CARD NEEDS WORK: Video-to-sprite tool | nothing of it is in this folder yet; no test covers it yet; 4 job(s) left before it can be sold",
+ "demand": "unmeasured (no sale yet)",
+ "rev": "V6.3.40"
+}
