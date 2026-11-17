@@ -39,6 +39,15 @@
    "updated": 1794850795.0
   },
   {
+   "id": "kaiju_cat_rampage_fx",
+   "title": "Kaiju Cat Rampage FX",
+   "status": "coming soon",
+   "price": "$6",
+   "model": "one-time",
+   "task": "kaiju_cat_rampage_fx/polsia_task.md",
+   "updated": 1794878999.8
+  },
+  {
    "id": "pixel_cat_stream_compani",
    "title": "Pixel Cat Stream Companions",
    "status": "coming soon",
