@@ -57,6 +57,15 @@
    "updated": 1794866772.9
   },
   {
+   "id": "purrfect_focus_cat",
+   "title": "Purrfect Focus Cat",
+   "status": "coming soon",
+   "price": "$4.99",
+   "model": "one-time",
+   "task": "purrfect_focus_cat/polsia_task.md",
+   "updated": 1794935890.4
+  },
+  {
    "id": "sprite_tool",
    "title": "Video-to-sprite tool",
    "status": "coming soon",
