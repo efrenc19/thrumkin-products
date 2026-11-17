@@ -73,6 +73,15 @@
    "model": "one-time",
    "task": "town_app/polsia_task.md",
    "updated": 1794815022.7
+  },
+  {
+   "id": "truth_card_pro",
+   "title": "Truth Card Pro",
+   "status": "coming soon",
+   "price": "$10/mo",
+   "model": "monthly",
+   "task": "truth_card_pro/polsia_task.md",
+   "updated": 1794883616.2
   }
  ]
 }
