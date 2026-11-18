@@ -1,0 +1,28 @@
+{
+ "id": "pixel_cat_home_pets",
+ "title": "Pixel Cat Home Pets",
+ "tagline": "Five pixel cats that walk, sit, sleep, purr, breed and raise kittens on your home and lock",
+ "description": "Five pixel cats that walk, sit, sleep, purr, breed and raise kittens on your home and lock screen widgets.",
+ "for": "phone owners who decorate their home screen and want a small animated pet on it",
+ "price": "$4.99",
+ "model": "one-time",
+ "kind": "app",
+ "status": "coming soon",
+ "faq": [
+  [
+   "What exactly do I get?",
+   "Five pixel cats that walk, sit, sleep, purr, breed and raise kittens on your home and lock screen widgets."
+  ],
+  [
+   "Is it finished?",
+   "Not yet. Still to do: Export the five cat animation sets from cats_engine into widgetcompatible frame sequences.; Use chibi_maker to create matching accessory and outfit variants for each cat.; Build iOS WidgetKit and Android Glance widgets that cycle behaviours via the existing need."
+  ],
+  [
+   "Who made it?",
+   "It comes out of Gotjira Town's own tested work. The design and the code are original."
+  ]
+ ],
+ "card": "MARKET CARD READY: Pixel Cat Home Pets | built, tested, ours, clear",
+ "demand": "unmeasured (no sale yet)",
+ "rev": "V6.3.40"
+}
