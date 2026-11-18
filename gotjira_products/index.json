@@ -66,6 +66,15 @@
    "updated": 1794964026.6
   },
   {
+   "id": "pixel_cat_screen_pets",
+   "title": "Pixel Cat Screen Pets",
+   "status": "coming soon",
+   "price": "$2.99",
+   "model": "one-time",
+   "task": "pixel_cat_screen_pets/polsia_task.md",
+   "updated": 1795040079.3
+  },
+  {
    "id": "pixel_cat_stream_compani",
    "title": "Pixel Cat Stream Companions",
    "status": "coming soon",
