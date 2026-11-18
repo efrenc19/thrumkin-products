@@ -1,28 +1,28 @@
 {
  "id": "kaiju_cat_rampage_fx",
- "title": "Kaiju Cat Rampage FX",
- "tagline": "Cute cats unleash screen-shaking stomps, shockwaves, and purr-powered VFX for boss fights ",
- "description": "Cute cats unleash screen-shaking stomps, shockwaves, and purr-powered VFX for boss fights or comedy moments.",
+ "title": "Kaiju Rampage FX",
+ "tagline": "21 pixel-art attack effects for 2D games",
+ "description": "21 pixel-art attack effects for 2D games: breath beams, a star-collapse impact, a nuke, lightning, spells and a crumbling city, as transparent sprite sheets.",
  "for": "indie game developers who need ready sprites and animations",
  "price": "$6",
  "model": "one-time",
- "kind": "app",
- "status": "coming soon",
+ "kind": "pack",
+ "status": "ready to sell",
  "faq": [
   [
    "What exactly do I get?",
-   "Cute cats unleash screen-shaking stomps, shockwaves, and purr-powered VFX for boss fights or comedy moments."
+   "21 pixel-art attack effects for 2D games: breath beams, a star-collapse impact, a nuke, lightning, spells and a crumbling city, as transparent sprite sheets."
   ],
   [
    "Is it finished?",
-   "Not yet. Still to do: Extract cat sprites from cats_engine at key animation frames; Layer kaiju_fx shockwaves and screen shake on attack frames; Export framed VFX sheets + Unity/Godot import guide."
+   "Yes."
   ],
   [
    "Who made it?",
    "It comes out of Gotjira Town's own tested work. The design and the code are original."
   ]
  ],
- "card": "MARKET CARD READY: Kaiju Cat Rampage FX | built, tested, ours, clear",
+ "card": "MARKET CARD READY: Kaiju Rampage FX | built, tested, ours, clear",
  "demand": "unmeasured (no sale yet)",
  "rev": "V6.3.40"
 }
