@@ -1,0 +1,28 @@
+{
+ "id": "calm_cats_companion",
+ "title": "Calm Cats Companion",
+ "tagline": "A gentle self-care pet app where five pixel cats roam your phone, purr when you complete t",
+ "description": "A gentle self-care pet app where five pixel cats roam your phone, purr when you complete tiny habits, and breed kittens as your streak grows.",
+ "for": "people who want gentle daily habits and stick to them better for a virtual pet",
+ "price": "$5.99/mo",
+ "model": "monthly",
+ "kind": "subscription",
+ "status": "coming soon",
+ "faq": [
+  [
+   "What exactly do I get?",
+   "A gentle self-care pet app where five pixel cats roam your phone, purr when you complete tiny habits, and breed kittens as your streak grows."
+  ],
+  [
+   "Is it finished?",
+   "Not yet. Still to do: Port cats_engine to mobile (iOS/Android) with touch feeding and petting; Wire needs_ai to map user check-ins (water, stretch, breath) to cat energy and stress; Add local notifications synced to cat sleep/wake cycles."
+  ],
+  [
+   "Who made it?",
+   "It comes out of Gotjira Town's own tested work. The design and the code are original."
+  ]
+ ],
+ "card": "MARKET CARD READY: Calm Cats Companion | built, tested, ours, clear",
+ "demand": "unmeasured (no sale yet)",
+ "rev": "V6.3.40"
+}
