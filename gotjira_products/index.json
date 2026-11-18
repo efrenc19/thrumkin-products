@@ -36,7 +36,7 @@
    "price": "$6",
    "model": "one-time",
    "task": "cats_pack/polsia_task.md",
-   "updated": 1794853005.4
+   "updated": 1795038273.5
   },
   {
    "id": "digital_studio",
@@ -49,12 +49,12 @@
   },
   {
    "id": "kaiju_cat_rampage_fx",
-   "title": "Kaiju Cat Rampage FX",
-   "status": "coming soon",
+   "title": "Kaiju Rampage FX",
+   "status": "ready to sell",
    "price": "$6",
    "model": "one-time",
    "task": "kaiju_cat_rampage_fx/polsia_task.md",
-   "updated": 1794878999.8
+   "updated": 1795038273.5
   },
   {
    "id": "pixel_cat_home_pets",
