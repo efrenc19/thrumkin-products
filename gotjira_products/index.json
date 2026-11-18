@@ -21,6 +21,15 @@
    "updated": 1794850795.0
   },
   {
+   "id": "calm_cats_companion",
+   "title": "Calm Cats Companion",
+   "status": "coming soon",
+   "price": "$5.99/mo",
+   "model": "monthly",
+   "task": "calm_cats_companion/polsia_task.md",
+   "updated": 1795022134.6
+  },
+  {
    "id": "cats_pack",
    "title": "Town Cats pixel pack",
    "status": "ready to sell",
