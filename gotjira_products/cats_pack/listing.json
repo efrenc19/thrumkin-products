@@ -1,8 +1,8 @@
 {
  "id": "cats_pack",
  "title": "Town Cats pixel pack",
- "tagline": "Five pixel cats (walking, sitting and sleeping poses, plus kittens) as PNG sprites and a s",
- "description": "Five pixel cats (walking, sitting and sleeping poses, plus kittens) as PNG sprites and a sheet, with a small behaviour engine: wander, sit, nap, purr.",
+ "tagline": "Five pixel kittens (walking, sitting and sleeping poses, plus tiny littermates) as PNG spr",
+ "description": "Five pixel kittens (walking, sitting and sleeping poses, plus tiny littermates) as PNG sprites and a sheet, with a small behaviour engine: wander, sit, nap, purr.",
  "for": "indie game developers who want living background animals",
  "price": "$6",
  "model": "one-time",
@@ -11,7 +11,7 @@
  "faq": [
   [
    "What exactly do I get?",
-   "Five pixel cats (walking, sitting and sleeping poses, plus kittens) as PNG sprites and a sheet, with a small behaviour engine: wander, sit, nap, purr."
+   "Five pixel kittens (walking, sitting and sleeping poses, plus tiny littermates) as PNG sprites and a sheet, with a small behaviour engine: wander, sit, nap, purr."
   ],
   [
    "Is it finished?",
