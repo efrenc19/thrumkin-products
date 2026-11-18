@@ -6,15 +6,15 @@ Add one product section to the site's products page (create the page if there is
 home page). Use exactly the text below: do not add claims, reviews, numbers of users or results.
 
 Title: Town Cats pixel pack
-Tagline: Five pixel cats (walking, sitting and sleeping poses, plus kittens) as PNG sprites and a s
-Description: Five pixel cats (walking, sitting and sleeping poses, plus kittens) as PNG sprites and a sheet, with a small behaviour engine: wander, sit, nap, purr.
+Tagline: Five pixel kittens (walking, sitting and sleeping poses, plus tiny littermates) as PNG spr
+Description: Five pixel kittens (walking, sitting and sleeping poses, plus tiny littermates) as PNG sprites and a sheet, with a small behaviour engine: wander, sit, nap, purr.
 For: indie game developers who want living background animals
 Price: $6 (one-time)
 Status: ready to sell
 
 FAQ:
 - Q: What exactly do I get?
-  A: Five pixel cats (walking, sitting and sleeping poses, plus kittens) as PNG sprites and a sheet, with a small behaviour engine: wander, sit, nap, purr.
+  A: Five pixel kittens (walking, sitting and sleeping poses, plus tiny littermates) as PNG sprites and a sheet, with a small behaviour engine: wander, sit, nap, purr.
 - Q: Is it finished?
   A: Yes.
 - Q: Who made it?
