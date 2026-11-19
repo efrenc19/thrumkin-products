@@ -1,0 +1,28 @@
+{
+ "id": "desk_cats_bottom_bar",
+ "title": "Desk Cats: Bottom Bar",
+ "tagline": "A tiny bottom-screen idle where five pixel cats roam your desktop edge, nap on the taskbar",
+ "description": "A tiny bottom-screen idle where five pixel cats roam your desktop edge, nap on the taskbar, and purr down your stress meter while you work.",
+ "for": "PC players who keep a cozy game running at the bottom of the screen while they work",
+ "price": "$4.99",
+ "model": "one-time",
+ "kind": "app",
+ "status": "coming soon",
+ "faq": [
+  [
+   "What exactly do I get?",
+   "A tiny bottom-screen idle where five pixel cats roam your desktop edge, nap on the taskbar, and purr down your stress meter while you work."
+  ],
+  [
+   "Is it finished?",
+   "Not yet. Still to do: Strip town_world to a single horizontal slice that docks to the bottom of the screen.; Wire cats_engine behaviours to a simplified needs_ai loop (energy, stress, curiosity).; Add Steam overlay hooks and a one-click 'pause while gaming' toggle.."
+  ],
+  [
+   "Who made it?",
+   "It comes out of Gotjira Town's own tested work. The design and the code are original."
+  ]
+ ],
+ "card": "MARKET CARD READY: Desk Cats: Bottom Bar | built, tested, ours, clear",
+ "demand": "unmeasured (no sale yet)",
+ "rev": "V6.3.40"
+}
