@@ -30,6 +30,15 @@
    "updated": 1795022134.6
   },
   {
+   "id": "calm_cats_companion_2",
+   "title": "Calm Cats Companion",
+   "status": "coming soon",
+   "price": "$3.99",
+   "model": "one-time",
+   "task": "calm_cats_companion_2/polsia_task.md",
+   "updated": 1795104929.8
+  },
+  {
    "id": "cats_pack",
    "title": "Town Cats pixel pack",
    "status": "ready to sell",
