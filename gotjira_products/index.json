@@ -48,6 +48,15 @@
    "updated": 1795038273.5
   },
   {
+   "id": "desk_cats_bottom_bar",
+   "title": "Desk Cats: Bottom Bar",
+   "status": "coming soon",
+   "price": "$4.99",
+   "model": "one-time",
+   "task": "desk_cats_bottom_bar/polsia_task.md",
+   "updated": 1795127411.8
+  },
+  {
    "id": "digital_studio",
    "title": "AI digital studio (apps, ads and videos by credits)",
    "status": "coming soon",
