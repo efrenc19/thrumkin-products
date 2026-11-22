@@ -102,6 +102,15 @@
    "updated": 1794866772.9
   },
   {
+   "id": "pixel_cat_stream_overlay",
+   "title": "Pixel Cat Stream Overlays",
+   "status": "coming soon",
+   "price": "$8",
+   "model": "one-time",
+   "task": "pixel_cat_stream_overlay/polsia_task.md",
+   "updated": 1795317553.5
+  },
+  {
    "id": "purrfect_focus_cat",
    "title": "Purrfect Focus Cat",
    "status": "coming soon",
