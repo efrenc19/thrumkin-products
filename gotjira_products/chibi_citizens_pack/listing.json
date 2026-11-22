@@ -1,0 +1,28 @@
+{
+ "id": "chibi_citizens_pack",
+ "title": "Chibi Citizens Pack",
+ "tagline": "22x32 pixel chibi sprites with walk, work, sit poses and swappable hair/outfit layers for ",
+ "description": "22x32 pixel chibi sprites with walk, work, sit poses and swappable hair/outfit layers for instant NPC variety.",
+ "for": "indie game developers who need ready sprites and animations",
+ "price": "$5",
+ "model": "one-time",
+ "kind": "pack",
+ "status": "coming soon",
+ "faq": [
+  [
+   "What exactly do I get?",
+   "22x32 pixel chibi sprites with walk, work, sit poses and swappable hair/outfit layers for instant NPC variety."
+  ],
+  [
+   "Is it finished?",
+   "Not yet. Still to do: Export all base poses and layer-separated PNGs from chibi_maker; Organize into itch.io folders: bases, hairs, outfits, animations; Write a one-page integration guide for Godot/Unity."
+  ],
+  [
+   "Who made it?",
+   "It comes out of Gotjira Town's own tested work. The design and the code are original."
+  ]
+ ],
+ "card": "MARKET CARD READY: Chibi Citizens Pack | built, tested, ours, clear",
+ "demand": "unmeasured (no sale yet)",
+ "rev": "V6.3.40"
+}
