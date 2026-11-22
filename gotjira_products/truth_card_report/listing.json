@@ -1,0 +1,28 @@
+{
+ "id": "truth_card_report",
+ "title": "Truth Card Report",
+ "tagline": "An honest, fee-aware performance report card for any trading history  sample size, in/out-",
+ "description": "An honest, fee-aware performance report card for any trading history  sample size, in/out-of-sample split, and net-after-fees stats in one shareable page.",
+ "for": "people who trade on Kalshi and Polymarket",
+ "price": "$10",
+ "model": "monthly",
+ "kind": "subscription",
+ "status": "coming soon",
+ "faq": [
+  [
+   "What exactly do I get?",
+   "An honest, fee-aware performance report card for any trading history  sample size, in/out-of-sample split, and net-after-fees stats in one shareable page."
+  ],
+  [
+   "Is it finished?",
+   "Not yet. Still to do: Build a web form where users paste or upload trade CSV; Run truth_card analysis and render results with a chibi_maker avatar as the trader's badge; Offer a one-time $10 report or a $5/mo subscription for unlimited reports."
+  ],
+  [
+   "Who made it?",
+   "It comes out of Gotjira Town's own tested work. The design and the code are original."
+  ]
+ ],
+ "card": "MARKET CARD READY: Truth Card Report | built, tested, ours, clear",
+ "demand": "unmeasured (no sale yet)",
+ "rev": "V6.3.40"
+}
