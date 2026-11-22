@@ -154,6 +154,15 @@
    "model": "monthly",
    "task": "truth_card_pro/polsia_task.md",
    "updated": 1794883616.2
+  },
+  {
+   "id": "truth_card_report",
+   "title": "Truth Card Report",
+   "status": "coming soon",
+   "price": "$10",
+   "model": "monthly",
+   "task": "truth_card_report/polsia_task.md",
+   "updated": 1795385955.3
   }
  ]
 }
