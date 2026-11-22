@@ -48,6 +48,15 @@
    "updated": 1795038273.5
   },
   {
+   "id": "chibi_citizens_pack",
+   "title": "Chibi Citizens Pack",
+   "status": "coming soon",
+   "price": "$5",
+   "model": "one-time",
+   "task": "chibi_citizens_pack/polsia_task.md",
+   "updated": 1795363271.5
+  },
+  {
    "id": "desk_cats_bottom_bar",
    "title": "Desk Cats: Bottom Bar",
    "status": "coming soon",
