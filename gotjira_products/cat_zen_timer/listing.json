@@ -1,0 +1,28 @@
+{
+ "id": "cat_zen_timer",
+ "title": "Cat Zen Timer",
+ "tagline": "A focus timer where a pixel cat lives on your screen, walks, sleeps, and purrs while you w",
+ "description": "A focus timer where a pixel cat lives on your screen, walks, sleeps, and purrs while you work, rewarding completed sessions with new kittens and cozy animations.",
+ "for": "students and desk workers who want a cute companion that rewards time off the phone",
+ "price": "$4.99",
+ "model": "one-time",
+ "kind": "app",
+ "status": "coming soon",
+ "faq": [
+  [
+   "What exactly do I get?",
+   "A focus timer where a pixel cat lives on your screen, walks, sleeps, and purrs while you work, rewarding completed sessions with new kittens and cozy animations."
+  ],
+  [
+   "Is it finished?",
+   "Not yet. Still to do: Extract cat sprites and state machine from cats_engine into a mobile library.; Build a minimal timer screen (start, pause, session length) that drives the cat's behaviou; Add local notifications and a kitten-unlock progression tied to total focus minutes.."
+  ],
+  [
+   "Who made it?",
+   "It comes out of Gotjira Town's own tested work. The design and the code are original."
+  ]
+ ],
+ "card": "MARKET CARD READY: Cat Zen Timer | built, tested, ours, clear",
+ "demand": "unmeasured (no sale yet)",
+ "rev": "V6.3.40"
+}
