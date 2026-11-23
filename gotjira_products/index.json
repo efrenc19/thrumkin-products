@@ -39,6 +39,15 @@
    "updated": 1795104929.8
   },
   {
+   "id": "cat_zen_timer",
+   "title": "Cat Zen Timer",
+   "status": "coming soon",
+   "price": "$4.99",
+   "model": "one-time",
+   "task": "cat_zen_timer/polsia_task.md",
+   "updated": 1795458693.0
+  },
+  {
    "id": "cats_pack",
    "title": "Town Cats pixel pack",
    "status": "ready to sell",
