@@ -129,6 +129,15 @@
    "updated": 1795317553.5
   },
   {
+   "id": "pocket_pixel_cats",
+   "title": "Pocket Pixel Cats",
+   "status": "coming soon",
+   "price": "$4.99",
+   "model": "one-time",
+   "task": "pocket_pixel_cats/polsia_task.md",
+   "updated": 1795478559.1
+  },
+  {
    "id": "purrfect_focus_cat",
    "title": "Purrfect Focus Cat",
    "status": "coming soon",
